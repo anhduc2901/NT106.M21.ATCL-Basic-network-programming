@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\bin\Debug\TreeViewGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\bin\Debug\TreeViewGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\bin\Debug\TreeViewGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\TreeView\TreeViewGUI\obj\Debug\TreeViewGUI.pdb

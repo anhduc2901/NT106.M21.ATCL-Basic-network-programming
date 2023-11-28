@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\bin\Debug\picture_box.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\bin\Debug\picture_box.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\bin\Debug\picture_box.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Picturebox\picture_box\obj\Debug\picture_box.pdb

@@ -1,0 +1,20 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\bin\Debug\cbbox.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\bin\Debug\cbbox.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\bin\Debug\cbbox.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\ComboBox\cbbox\obj\Debug\cbbox.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\bin\Debug\cbbox.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\bin\Debug\cbbox.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\bin\Debug\cbbox.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ComboBox- 1 list lựa chọn\cbbox\obj\Debug\cbbox.pdb

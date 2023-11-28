@@ -1,0 +1,15 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1-20520890-HoangVanDuc.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoangVanDuc.Lab01_Bai01.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoangVanDuc.Lab02_Bai02.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoangVanDuc.Lab03_Bai03.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoangVanDuc.Lab04_Bai04.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoangVanDuc.Lab05_Bai05.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoangVanDuc.MainMenu.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1_20520890_HoàngVănAnhĐức.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1-20520890-HoangVanDuc.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1-20520890-HoangVanDuc.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\bin\Debug\Lab1-20520890-HoàngVănAnhĐức.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\bin\Debug\Lab1-20520890-HoàngVănAnhĐức.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\bin\Debug\Lab1-20520890-HoàngVănAnhĐức.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1-20520890-HoàngVănAnhĐức.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session 1- Group ĐN\Lab1-Nhom DN\Lab1-Nhom DN\Lab1\obj\Debug\Lab1-20520890-HoàngVănAnhĐức.pdb

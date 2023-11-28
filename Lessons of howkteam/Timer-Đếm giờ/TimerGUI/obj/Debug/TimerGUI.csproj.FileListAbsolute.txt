@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\bin\Debug\TimerGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\bin\Debug\TimerGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\bin\Debug\TimerGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Timer\TimerGUI\obj\Debug\TimerGUI.pdb

@@ -1,0 +1,14 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\bin\Debug\Crawler.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\bin\Debug\Crawler.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\bin\Debug\Crawler.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\bin\Debug\HtmlAgilityPack.dll
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\bin\Debug\HtmlAgilityPack.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\bin\Debug\HtmlAgilityPack.xml
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\baitap_trenlop03\Crawler\obj\Debug\Crawler.pdb

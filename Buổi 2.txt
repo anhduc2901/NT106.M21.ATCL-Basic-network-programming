@@ -1,0 +1,63 @@
+			+NỀN TẢNG .NET
+-microsoft phát triển
+-chạy trên window
+-code đc trên MACOS,linux (ko đc tối ưu như trên window)
+-Hiệu quả hơn code = C , hàm xử lý lỗi tự động
+
+
+
+
+
+			+ĐỊA CHỈ IP
+A:1.0.0.0 : 126.0.0.0
+B:128.0.0.0->191.255.0.0
+C:192.0.0.0->223.255.255.0
+D:224.0.0.5->239.255.255.0
+E:240.0.0.0
+-127.0.0.1 địa chỉ không kết nối với mạng nào
+			
+
+			+NETWORK STACK HIỆN ĐẠI
+STT	Tên tầng			Giao thức
+4	Structured Information		SOAP
+3	Message				HTTP
+2	Stream				TCP
+1	Packet				IP
+
+-Không cần quan tâm thông tin truyền như nào
+-quan tâm "gửi cái gì"
+			
+
+
+			+PORTS
+-Mỗi máy tính có nhiều ứng dụng chạy đồng thời
+-Dữ liệu phải đính kèm thông tin cho biết ứng dụng nào dùng nó (port number)
+ví dụ : 80 cho ứng dụng web,110 cho ứng dụng email
+-Thông tin port đc chứa trong header của TCP ,UDP packet
+
+
+
+			+ .NET FRAMEWORK
+-c sharp , managed c++,..
+-Mã trung gian MSIL (Microsoft intermediate language bite code)
+-
+
+
+			+NAMESPACE
+-Tránh sự trùng lặp khi đặt tên lớp ...
+
+vd :
+namespace 
+
+
+			+CÁC THÀNH PHẦN TRONG LỚP
+-Thành phần của lớp : khai báo với từ khóa static
+vd  : 
+	Class KhachHang
+	{
+		private static int maKH
+	}
+
+
+
+

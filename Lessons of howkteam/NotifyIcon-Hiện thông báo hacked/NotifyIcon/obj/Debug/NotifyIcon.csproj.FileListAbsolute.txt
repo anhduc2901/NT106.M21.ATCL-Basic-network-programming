@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\bin\Debug\NotifyIcon.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\NotifyIcon\NotifyIcon\obj\Debug\NotifyIcon.pdb

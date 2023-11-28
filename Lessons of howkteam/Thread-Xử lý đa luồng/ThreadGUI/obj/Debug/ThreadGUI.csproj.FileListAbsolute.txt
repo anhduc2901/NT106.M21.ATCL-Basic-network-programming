@@ -1,0 +1,20 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\bin\Debug\ThreadGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\bin\Debug\ThreadGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\bin\Debug\ThreadGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread\ThreadGUI\obj\Debug\ThreadGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\bin\Debug\ThreadGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\bin\Debug\ThreadGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\bin\Debug\ThreadGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Thread-Xử lý đa luồng\ThreadGUI\obj\Debug\ThreadGUI.pdb

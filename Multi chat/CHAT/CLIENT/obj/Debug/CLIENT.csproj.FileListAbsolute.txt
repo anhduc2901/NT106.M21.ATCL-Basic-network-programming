@@ -1,0 +1,20 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CLIENT\obj\Debug\CLIENT.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\bin\Debug\CLIENT.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.frmCLIENT.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session3_GroupDN\CHAT qua socket C\CHAT\CLIENT\obj\Debug\CLIENT.pdb

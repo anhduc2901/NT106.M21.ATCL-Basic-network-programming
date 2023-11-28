@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\bin\Debug\ListviewP2.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\bin\Debug\ListviewP2.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\bin\Debug\ListviewP2.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\Part2\ListviewP2\obj\Debug\ListviewP2.csproj.AssemblyReference.cache

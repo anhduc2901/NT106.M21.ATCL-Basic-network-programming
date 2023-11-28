@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\bin\Debug\ListViewGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\bin\Debug\ListViewGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\bin\Debug\ListViewGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ListView\ListViewGUI\obj\Debug\ListViewGUI.pdb

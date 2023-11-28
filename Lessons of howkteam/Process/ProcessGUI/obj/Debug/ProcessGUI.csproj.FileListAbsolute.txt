@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\bin\Debug\ProcessGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\bin\Debug\ProcessGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\bin\Debug\ProcessGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\Process\ProcessGUI\obj\Debug\ProcessGUI.pdb

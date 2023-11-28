@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\bin\Debug\Bai4_real.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\bin\Debug\Bai4_real.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\bin\Debug\Bai4_real.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\NT106.M21.ATCL-Session2_GroupĐN\Bai4_real\obj\Debug\Bai4_real.pdb

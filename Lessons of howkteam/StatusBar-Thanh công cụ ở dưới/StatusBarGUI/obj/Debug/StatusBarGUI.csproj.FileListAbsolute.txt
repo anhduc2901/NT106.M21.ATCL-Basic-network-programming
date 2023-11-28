@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\bin\Debug\StatusBarGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\bin\Debug\StatusBarGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\bin\Debug\StatusBarGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\StatusBar\StatusBarGUI\obj\Debug\StatusBarGUI.pdb

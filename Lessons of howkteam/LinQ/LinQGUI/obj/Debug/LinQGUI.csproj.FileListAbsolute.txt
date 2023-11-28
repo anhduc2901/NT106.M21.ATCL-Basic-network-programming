@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\bin\Debug\LinQGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\bin\Debug\LinQGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\bin\Debug\LinQGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\LinQ\LinQGUI\obj\Debug\LinQGUI.pdb

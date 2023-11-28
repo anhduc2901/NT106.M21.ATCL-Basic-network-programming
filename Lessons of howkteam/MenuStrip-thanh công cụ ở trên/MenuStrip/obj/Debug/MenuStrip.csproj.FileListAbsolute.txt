@@ -1,0 +1,20 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\bin\Debug\MenuStrip.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\MenuStrip-thanh công cụ ở trên\MenuStrip\obj\Debug\MenuStrip.pdb

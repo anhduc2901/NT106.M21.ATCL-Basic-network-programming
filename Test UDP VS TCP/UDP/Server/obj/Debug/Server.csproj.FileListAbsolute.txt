@@ -1,0 +1,9 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\bin\Debug\Server.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\bin\Debug\Server.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\bin\Debug\Server.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\obj\Debug\Server.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\obj\Debug\Server.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Test UDP VS TCP\UDP\Server\obj\Debug\Server.pdb

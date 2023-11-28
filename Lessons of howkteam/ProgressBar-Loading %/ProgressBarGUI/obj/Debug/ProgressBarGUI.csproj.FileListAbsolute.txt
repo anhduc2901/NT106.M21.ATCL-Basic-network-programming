@@ -1,0 +1,20 @@
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\bin\Debug\ProgressBarGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\bin\Debug\ProgressBarGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\bin\Debug\ProgressBarGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar\ProgressBarGUI\obj\Debug\ProgressBarGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\bin\Debug\ProgressBarGUI.exe.config
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\bin\Debug\ProgressBarGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\bin\Debug\ProgressBarGUI.pdb
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.Form1.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.Properties.Resources.resources
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.exe
+D:\LẬP TRÌNH MẠNG CĂN BẢN\Lessons of howkteam\ProgressBar-Loading %\ProgressBarGUI\obj\Debug\ProgressBarGUI.pdb
